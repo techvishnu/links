@@ -22,14 +22,6 @@
   <a href="#-license">License</a>
 </p>
 
----
-
-<p align="center">
-  <img alt="screenshot" src="screenshot.png">
-</p>
-
----
-
 ## 💡 About the project
 
 Welcome to my personal Linktree clone! This is a simple landing page that showcases my online presence with links to my social media profiles, websites, and more. As a beginner in web development, there might be some mistakes in the code, but I've done my best to make it according to my preferences. I've used some workarounds to address certain problems, but I'm confident you'll be able to fix them easily.
