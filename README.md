@@ -1,43 +1,69 @@
-# Personal Linktree Clone
+<h1 align="center">🔗 Linktree</h1>
+<h3 align="center">Keep those Links together</h3>
+
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/techvishnu/links?color=04D361&labelColor=000000">
+  
+  <a href="https://www.linkedin.com/in/techvishnu/">
+    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Tech%20Vishnu&color=04D361&labelColor=000000">
+  </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/techvishnu/links?color=04D361&labelColor=000000">
+  
+  <a href="https://github.com/techvishnu/links/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/techvishnu/links?color=04D361&labelColor=000000">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
+
+---
+
+<p align="center">
+  <img alt="screenshot" src="screenshot.png">
+</p>
+
+---
+
+## 💡 About the project
 
 Welcome to my personal Linktree clone! This is a simple landing page that showcases my online presence with links to my social media profiles, websites, and more. As a beginner in web development, there might be some mistakes in the code, but I've done my best to make it according to my preferences. I've used some workarounds to address certain problems, but I'm confident you'll be able to fix them easily.
+- [Demo](https://techvishnu.github.io/links/)
 
-## Features
+## 🚀 Getting started
 
-- Add, edit, and delete links to your social media profiles or websites.
-- Customize the order of links as per your preference.
-- Enjoy a clean and minimalistic design without complex animations.
-
-## Technologies Used
-
-This project was built using simple HTML, CSS, and JavaScript, without relying on heavy animations or frameworks.
-
-## How to Use
-
-1. Clone the repository to your local machine using the following command:
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+[Download the ZIP from this location](https://github.com/techvishnu/links/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
-https://github.com/techvishnu/links.github.io.git
+git clone https://github.com/johnggli/linktree
 ```
+- Once the files are on your machine, open the _linktree_ folder in [Visual Studio Code](https://code.visualstudio.com/).
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+- Change the profile image and texts in the `index.html` file.
+- Change the colors and fonts in the `style.css` file.
+- To change the background, go to the `style.css` file on line 17, uncomment the code snippet and change the url to whatever image you want.
 
-2. Navigate to the project directory:
-```bash
-cd personal-linktree-clone
-```
+## 🤔 How to contribute
 
-3. Open the `index.html` file in your preferred web browser.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m "feat: my new feature"`;
+- Push to your branch: `git push origin my-feature`.
 
-4. To customize the links and their order, open the `index.html` file in a text editor and modify the HTML structure inside the `<div class="links-container">` element. You can add, edit, or remove links using the provided template.
+Once your pull request has been merged, you can delete your branch.
 
-5. Save the changes and refresh the `index.html` file in your web browser to see the updated links.
+## 📝 License
+
+This project is under the Unlicense. See the [LICENSE](LICENSE.md) file for more details.
+
+---
 
 ## Acknowledgements
-
 I'd like to give credit to [johnggli](https://github.com/johnggli) for providing useful tips and inspiration for this project.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is released under the [Unlicense](UNLICENSE). Feel free to use, modify, and distribute it without any restrictions. For more details, please refer to the [LICENSE](UNLICENSE) file.
+# Happy Coding
