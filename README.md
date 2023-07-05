@@ -10,9 +10,7 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/techvishnu/links?color=04D361&labelColor=000000">
   
-  <a href="https://github.com/techvishnu/links/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/techvishnu/links?color=04D361&labelColor=000000">
-  </a>
+ 
 </p>
 
 <p align="center">
