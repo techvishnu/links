@@ -11,7 +11,7 @@ body {
     flex-direction: column;
     width: 100vw;
     font-family: Verdana, Tahoma, sans-serif;
-    background-image: url("../images/space2.jpg"); /* replace with your own image link */
+    background-image: url("images/space2.jpg"); /* replace with your own image link */
     background-attachment: fixed;
 }
 
